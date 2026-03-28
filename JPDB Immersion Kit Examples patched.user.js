@@ -13,8 +13,8 @@
 // @grant        GM_addElement
 // @grant        GM_xmlhttpRequest
 // @license      MIT
-// @downloadURL https://raw.githubusercontent.com/JayBuckleyUpdox/jpdb-userscript-mirror/main/JPDB%20Immersion%20Kit%20Examples.user.js
-// @updateURL https://raw.githubusercontent.com/JayBuckleyUpdox/jpdb-userscript-mirror/main/JPDB%20Immersion%20Kit%20Examples.user.js
+// @downloadURL https://raw.githubusercontent.com/JayBuckleyUpdox/jpdb-userscript-mirror/main/JPDB%20Immersion%20Kit%20Examples%20patched.user.js
+// @updateURL https://raw.githubusercontent.com/JayBuckleyUpdox/jpdb-userscript-mirror/main/JPDB%20Immersion%20Kit%20Examples%20patched.user.js
 // ==/UserScript==
 
 (function() {
