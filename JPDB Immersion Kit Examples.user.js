@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         JPDB Immersion Kit Examples
-// @version      1.24
+// @version      1.24.1
 // @description  Embeds anime images & audio examples into JPDB review and vocabulary pages using Immersion Kit's API. 
 // @author       awoo
 // @namespace    jpdb-immersion-kit-examples
@@ -13,8 +13,8 @@
 // @grant        GM_addElement
 // @grant        GM_xmlhttpRequest
 // @license      MIT
-// @downloadURL https://update.greasyfork.org/scripts/507408/JPDB%20Immersion%20Kit%20Examples.user.js
-// @updateURL https://update.greasyfork.org/scripts/507408/JPDB%20Immersion%20Kit%20Examples.meta.js
+// @downloadURL https://raw.githubusercontent.com/JayBuckleyUpdox/jpdb-userscript-mirror/main/JPDB%20Immersion%20Kit%20Examples.user.js
+// @updateURL https://raw.githubusercontent.com/JayBuckleyUpdox/jpdb-userscript-mirror/main/JPDB%20Immersion%20Kit%20Examples.user.js
 // ==/UserScript==
 
 (function() {
